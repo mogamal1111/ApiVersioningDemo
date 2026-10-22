@@ -124,7 +124,14 @@ You can also request `/api/v3/products` to verify how the application handles an
 - URL-based versioning makes the requested version explicit.
 - Each version can expose a different response contract.
 - Postman can be used to verify the behavior of each endpoint.
+  
 
-## Repository
+## Author
 
-[GitHub — ApiVersioningDemo](https://github.com/mogamal1111/ApiVersioningDemo)
+**Mohamed Gamal**
+
+Machine Learning & Deep Learning Engineer
+
+GitHub: https://github.com/mogamal1111
+
+LinkedIn: https://www.linkedin.com/in/mohamed-gamal-85795735b
